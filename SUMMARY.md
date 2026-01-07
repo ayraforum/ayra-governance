@@ -10,6 +10,7 @@
   * [Intellectual Property Policies](governance-artifacts/intellectual-property-policies.md)
   * [Project & Working Group Process (DRAFT)](governance-artifacts/project-and-working-group-process.md)
   * [Membership](governance-artifacts/membership/README.md)
+    * [Membership Fees](governance-artifacts/membership/membership-fees.md)
     * [Application Form](governance-artifacts/membership/application-form.md)
     * [Membership Agreement](governance-artifacts/membership/membership-agreement.md)
 * [Governance Bodies](governance-bodies/README.md)
