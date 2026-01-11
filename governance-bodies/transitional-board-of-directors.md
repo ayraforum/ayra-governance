@@ -1,6 +1,6 @@
-# Transitional Board of Directors
+# Transitional Advisory Board of Directors
 
-
+This advisory body provides guidance while formal director elections are prepared for May 2026 AGM.
 
 ## Associate Business Members
 

@@ -15,7 +15,7 @@
     * [Membership Agreement](governance-artifacts/membership/membership-agreement.md)
 * [Governance Bodies](governance-bodies/README.md)
   * [General Assembly](governance-bodies/general-assembly.md)
-  * [Transitional Board of Directors](governance-bodies/transitional-board-of-directors.md)
+  * [Transitional Advisory Board of Directors](governance-bodies/transitional-board-of-directors.md)
   * [Officers](governance-bodies/officers.md)
   * [Working Groups](governance-bodies/working-groups.md)
     * [Ayra Card Working Group Charter](governance-bodies/working-groups/ayra-card-wg-charter.md)
