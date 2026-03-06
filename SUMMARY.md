@@ -18,5 +18,5 @@
   * [Transitional Advisory Board of Directors](governance-bodies/transitional-board-of-directors.md)
   * [Officers](governance-bodies/officers.md)
   * [Working Groups](governance-bodies/working-groups.md)
-    * [Ayra Card Working Group Charter](governance-bodies/working-groups/ayra-card-wg-charter.md)
+    * [Ayra Protocol Working Group Charter](governance-bodies/working-groups/ayra-protocol-wg-charter.md)
     * [Working Group Guiding Policies](governance-bodies/working-groups/guidance/guiding-policies.md)

@@ -1,4 +1,4 @@
-# **Ayra Card Working Group Charter**
+# **Ayra Protocol Working Group Charter**
 
 | Charter Status | v1.0, 2025.12.31  |
 | :---- | :---- |
@@ -20,30 +20,30 @@ NOTE: A minimum of 6 total participants, including at least 2 Ayra Members with 
 
 ## **1\. Motivation and Background**
 
-The Ayra Card Working Group (ACWG) is being established to formalize the Ayra Card protocol. The general idea of using the Ayra Card protocol is gaining steam at Ayra, and the need to formalize the required artifacts has become urgent. 
+The Ayra Protocol Working Group (APWG) is being established to formalize the Ayra Protocol. The general idea of using the Ayra Protocol is gaining steam at Ayra, and the need to formalize the required artifacts has become urgent. 
 
 The ACWG aims to meet the needs of all three pillars of the Ayra community:
 
-* **Business:** establishing the artifacts that the business community needs (e.g. business use cases, integration playbooks, trustmark) to use the Ayra Card protocol in their efforts.
-* **Governance:** establishing governance frameworks, trust frameworks, and policy structures that enable organizations to confidently adopt and implement the Ayra Card protocol to support the establishment of a global trust layer.
-* **Technology:** developing technical specifications, schemas, reference implementations, and conformance test suites that ensure interoperability and consistent implementation of the Ayra Card protocol across different platforms and vendors.
+* **Business:** establishing the artifacts that the business community needs (e.g. business use cases, integration playbooks, trustmark) to use the Ayra Protocol in their efforts.
+* **Governance:** establishing governance frameworks, trust frameworks, and policy structures that enable organizations to confidently adopt and implement the Ayra Protocol to support the establishment of a global trust layer.
+* **Technology:** developing technical specifications, schemas, reference implementations, and conformance test suites that ensure interoperability and consistent implementation of the Ayra Protocol across different platforms and vendors.
 
-This working group is being initiated to address the need for a standardized, interoperable approach to digital credential exchange in the identity ecosystem. The Ayra Card protocol has emerged as a promising solution for enabling verifiable credential presentation across diverse use cases, from day-to-day personal interations, employee badges use, through to supply chain transparency. However, without formal specifications, governance frameworks, and conformance criteria, implementations risk fragmentation and incompatibility.
+This working group is being initiated to address the need for a standardized, interoperable approach to digital credential exchange in the identity ecosystem. The Ayra Protocol has emerged as a promising solution for enabling verifiable credential presentation across diverse use cases, from day-to-day personal interations, employee badges use, through to supply chain transparency. However, without formal specifications, governance frameworks, and conformance criteria, implementations risk fragmentation and incompatibility.
 
 The working group brings together business stakeholders, governance experts, implementers, and developers, who recognize that successful adoption requires more than just technical specifications. Organizations need clear business cases, integration guidance, trustmarks for vendor selection, consistent rituals, and governance frameworks that address privacy, security, and regulatory compliance. The ACWG will create these essential artifacts while maintaining the agility to iterate rapidly through proof-of-concept implementations that validate real-world utility.
 
 ## **2\. Scope**
 
-The Ayra Card Working Group is responsible for establishing the business, governance, and technical artifacts required for the Ayra Card Protocol. [note: the term "protocol" is being used as a business and marketing term here.]
+The Ayra Protocol Working Group is responsible for establishing the business, governance, and technical artifacts required for the Ayra Protocol. [note: the term "protocol" is being used as a business and marketing term here.]
 
 The following will constitute the activities and interest areas of this working group:
 
-- Governing the **Ayra Card Proof of Concept** process, which is an ongoing set of short (60-90 day) iterations that aim to demonstrate business utility.
+- Governing the **Ayra Protocol Proof of Concept** process, which is an ongoing set of short (60-90 day) iterations that aim to demonstrate business utility.
 - Establishment of conformance criteria that will be used in the [Ayra Conformance Test Suite (CTS)](https://github.com/ayraforum/conformance-test-suite). 
-- Governing the Ayra Card aspects of the Ayra Conformance Test Suite.
+- Governing the Ayra Protocol aspects of the Ayra Conformance Test Suite.
 - Establishment of schema, context documents, presentation request, and other artifacts required for full system conformance.
-- Creation of business material to bolster the case for the Ayra Card protocol.
-- Establishment and guidance of the Ayra Card Governance Framework. 
+- Creation of business material to bolster the case for the Ayra Protocol.
+- Establishment and guidance of the Ayra Protocol Governance Framework. 
 
 
 ### **2.1 Out of Scope**
@@ -51,18 +51,18 @@ The following will constitute the activities and interest areas of this working 
 The following will *not* be addressed by this working group:
 
 * Revisions to underlying specifications (e.g. DIDComm, Aries RFCs, OID4VP). While the WG may gather inputs to provide to the SDOs that maintain the specifications, the revisions will not be conducted at Ayra.
-* Wallet implementation or certification beyond conformance to Ayra Card presentation protocols.
-* Credential issuance standards or processes (except where directly related to Ayra Card presentation requirements).
+* Wallet implementation or certification beyond conformance to Ayra Protocol presentation protocols.
+* Credential issuance standards or processes (except where directly related to Ayra Protocol presentation requirements).
 * Blockchain or distributed ledger technology selection or implementation.
-* General identity management or authentication mechanisms not specific to Ayra Card protocol.
+* General identity management or authentication mechanisms not specific to Ayra Protocol.
 
 ## **3\. Deliverables**
 
-The following deliverables are planned for the Ayra Card Working Group:
+The following deliverables are planned for the Ayra Protocol Working Group:
 
-### **3.1 Ayra Card Technical Specification v1.0**
+### **3.1 Ayra Protocol Technical Specification v1.0**
 
-1. **Description**: Comprehensive technical specification defining the Ayra Card protocol, including data models, message formats, and presentation flows.
+1. **Description**: Comprehensive technical specification defining the Ayra Protocol, including data models, message formats, and presentation flows.
 2. **Components**:
    - Core specification document
    - JSON Schema definitions
@@ -74,9 +74,9 @@ The following deliverables are planned for the Ayra Card Working Group:
 5. **Timeline**:
    1. TBD
 
-### **3.2 Conformance Test Suite (CTS) for Ayra Card**
+### **3.2 Conformance Test Suite (CTS) for Ayra Protocol**
 
-1. **Description**: Automated test suite for validating Ayra Card protocol implementations against the technical specification.
+1. **Description**: Automated test suite for validating Ayra Protocol implementations against the technical specification.
 2. **Components**:
    - Test harness and runner
    - Test cases covering all specification requirements
@@ -87,9 +87,9 @@ The following deliverables are planned for the Ayra Card Working Group:
 5. **Timeline**:
    1. TBD
 
-### **3.3 Ayra Card Governance Framework**
+### **3.3 Ayra Protocol Governance Framework**
 
-1. **Description**: Governance framework defining roles, responsibilities, trust models, and policy requirements for Ayra Card ecosystem participants.
+1. **Description**: Governance framework defining roles, responsibilities, trust models, and policy requirements for Ayra Protocol ecosystem participants.
 2. **Components**:
    - Governance framework document
    - Trust framework principles
@@ -103,7 +103,7 @@ The following deliverables are planned for the Ayra Card Working Group:
 
 ### **3.4 Business Integration Playbook**
 
-1. **Description**: Practical guide for organizations implementing the Ayra Card protocol, including use cases, integration patterns, and ROI models.
+1. **Description**: Practical guide for organizations implementing the Ayra Protocol, including use cases, integration patterns, and ROI models.
 2. **Components**:
    - Business use case library
    - Integration architecture patterns
@@ -115,9 +115,9 @@ The following deliverables are planned for the Ayra Card Working Group:
 5. **Timeline**:
    1. TBD
 
-### **3.5 Ayra Card Trustmark Program**
+### **3.5 Ayra Protocol Trustmark Program**
 
-1. **Description**: Certification program and trustmark criteria for Ayra Card compliant implementations.
+1. **Description**: Certification program and trustmark criteria for Ayra Protocol compliant implementations.
 2. **Components**:
    - Trustmark criteria and requirements
    - Certification process documentation
@@ -130,7 +130,7 @@ The following deliverables are planned for the Ayra Card Working Group:
 
 ### **3.6 Proof of Concept (PoC) Reports**
 
-1. **Description**: Quarterly reports documenting learnings from Ayra Card PoC implementations.
+1. **Description**: Quarterly reports documenting learnings from Ayra Protocol PoC implementations.
 2. **Components**:
    - PoC implementation summaries
    - Lessons learned and best practices
@@ -166,11 +166,11 @@ All participants must follow the Ayra [Code of Conduct](/governance-artifacts/co
 
 This WG follows the general Ayra guidance for [Communication](/governance-bodies/working-groups/guidance/guiding-policies.md#communication-policies)
 
-Mailing List: <ayra-card-wg@groups.ayra.forum>
+Mailing List: <ayra-protocol-wg@groups.ayra.forum>
 
 Github Repository:
 
-- [ayra-card-wg](https://github.com/ayra-forum/ayra-card-wg)
+- [ayra-protocol-wg](https://github.com/ayra-forum/ayra-protocol-wg)
 
 
 ### Decision Policy
