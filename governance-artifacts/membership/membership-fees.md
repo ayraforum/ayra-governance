@@ -1,24 +1,48 @@
 # Membership Fees
 
-| **Member Class**              | **Annual Fee**                                                                  | **Notes**                                                                                  |
-| ----------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| **Strategic Business Member** | <p>&#x3C;1,000 employees: US$50,000<br><br>>=1,000 employees: US$200,000/yr</p> | Organizations that place digital trust as a fundamental part of their business strategy    |
-| **Associate Business Member** | <p>&#x3C;1,000 employees: US$12,500<br><br>>=1,000 employees: US$50,000/yr</p>  | Commercial organizations that want to participate in various Ayra initiatives              |
-| **Individual Member**         | **No fee**                                                                      | All Individual Members participate on a non-commercial basis without fees (see note below) |
-| **Ecosystem Member**          | **No fee**                                                                      | Digital trust ecosystem operators                                                          |
-| **Civil Society Member**      | **No fee**                                                                      | Non-profits focused on digital rights/privacy                                              |
-| **Government Liaison Member** | **No fee**                                                                      | Public sector entities                                                                     |
+> **Source of truth.** The Articles of Association and the Bylaws are the authoritative source for membership classes and their definitions. This Fee Schedule is set by the Board under Bylaws §2.6 and may be amended by the Board from time to time. If anything here conflicts with the Articles or the Bylaws, the Articles and Bylaws govern.
 
-***
+**Approved by the Board:** _\[date — to be confirmed]_
+**Supersedes:** the prior Membership Fee Schedule
+
+Class definitions live in Bylaws **§2.1(a)** (class enumeration) and **§2.2(a)(1)–(6)** (admission criteria, rights, and obligations for each class). They are not restated here, so that the Bylaws remain the single source of truth and so that Fee Schedule edits cannot inadvertently change a class definition.
+
+## Annual Membership Fees
+
+| Member Class | Voting | Annual Fee |
+| --- | --- | --- |
+| Strategic Business Member | Yes | Fewer than 1,000 employees: US$50,000 / yr<br>1,000 or more employees: US$200,000 / yr |
+| Associate Business Member | Yes | Fewer than 1,000 employees: US$12,500 / yr<br>1,000 or more employees: US$50,000 / yr |
+| Individual Member | Yes | No fee |
+| Ecosystem Member | Yes | No fee |
+| Civil Society Member | Yes | No fee |
+| Government Liaison Member | No | No fee |
+
+## How fees are determined (§2.6)
+
+The Bylaws permit the Board to set fees based on (i) membership class, (ii) annual revenues, (iii) employee count, and (iv) type of organisation. Under this schedule the Board has elected to use **employee count** as the operative tier threshold for fee-paying classes. The Board may revise the basis or the amounts at any time consistent with §2.6.
+
+## Affiliate Groups (§2.6(a))
+
+Where a Member is part of an Affiliate Group:
+
+- The fee is calculated on the **total aggregate employee count of the entire Affiliate Group**, not on the Executing Member alone.
+- Where an Affiliate Group has more than one separate Executing Member, **each Executing Member pays the full fee at the Group's combined level**.
+
+The Affiliate Group rules are set out in Bylaws §2.3 and §2.6(a).
 
 ## Payment Terms
 
-* Fees are Annual, paid in full, renewable annually after
-* **Fee-based classes (Associate, Strategic):** Payment due upon execution of membership agreement
-* **Membership becomes effective:** Upon payment receipt
-* **Payment window:** 30 days from approval notification
-* **Annual renewal:** Invoice sent 30 days before renewal date
+- Fees are annual, paid in full, and renewable annually.
+- For fee-based classes (Strategic Business Members, Associate Business Members): payment is due upon execution of the Membership Agreement.
+- Membership becomes effective on receipt of payment.
+- Payment window: 30 days from approval notification.
+- Annual renewal: invoice issued at least 45 days before the renewal due date.
+- Non-payment: governed by Bylaws §2.5(b) — deemed resignation after the prescribed cure period.
 
-## Individual Members (Non-Commercial)
+## Related Documents
 
-**Individual Members** represent non-commercial interests. If an individual is a member of a commercial organization, or an independent business, their efforts should be limited to providing non-commercial input.
+- Articles of Association
+- Bylaws — §2.1(a), §2.2(a), §2.3, §2.5, §2.6
+- Membership Agreement (and Schedule A)
+- Membership Application Form
