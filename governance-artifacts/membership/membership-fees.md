@@ -46,3 +46,7 @@ The Affiliate Group rules are set out in Bylaws §2.3 and §2.6(a).
 - Bylaws — §2.1(a), §2.2(a), §2.3, §2.5, §2.6
 - Membership Agreement (and Schedule A)
 - Membership Application Form
+
+## Future Review
+
+A fuller review of the fee structure and tier basis is tracked in [ayra-governance#5](https://github.com/ayraforum/ayra-governance/issues/5).
