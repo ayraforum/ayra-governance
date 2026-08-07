@@ -11,23 +11,14 @@
 
 All revenue thresholds, funds-raised thresholds, and annual fees are denominated in U.S. dollars. 
 
-| Annual revenue/Funds raised (USD) | Strategic fee (USD) | Associate fee (USD) | Public Benefit fee (USD)`*` |
+| Annual revenue/Funds raised (USD) | Strategic Business Member fee (USD) | Associate Business Member fee (USD) | Public Benefit fee (USD)`*` |
 | --- | --- | --- | --- |
 | >= 250M+ | 100,000 | 50,000 | 0 |
 | >=10 to <250M | 50,000 | 25,000 | 0 |
 | < 10M | 25,000 | 5,000 | 0 |
 
-`*` — the Public Benefit member classes are Individual Members, Ecosystem Members, Civil Society Members, and Government Liaison Members.
 
-
-
-| Annual revenue/Funds raised (USD) | Strategic fee (USD) | Associate fee (USD) | Public Benefit fee (USD)`*` |
-| --- | --- | --- | --- |
-| 250M+ | 100,000 | 50,000 | 0 |
-| 10–250M | 50,000 | 25,000 | 0 |
-| 0–10M | 25,000 | 5,000 | 0 |
-
-`*` — the Public Benefit member classes are Individual Members, Ecosystem Members, Civil Society Members, and Government Liaison Members.
+`*` — the Public Benefit member classes are Individual Member, Ecosystem Member, Civil Society Member, and Government Liaison Member.
 
 Membership fees are cash-only. The fee schedule does not amend the form of the Ayra Association Membership Agreement.
 
