@@ -7,22 +7,27 @@
 - Governing decisions: Ayra Association Board resolutions 2026-07-003 and 2026-07-004
 - Members' Assembly: The Board-approved proposal will be submitted to the November 17, 2026 Members' Assembly, which determines the general 2027 membership fees.
 
-## Board-Approved Fee Schedule
+## 2027 Member Fee Schedule
 
 All revenue thresholds, funds-raised thresholds, and annual fees are denominated in U.S. dollars. 
 
-| Annual revenue or funds raised | Strategic Business Member annual fee | Associate Business Member annual fee |
-| :--- | ---: | ---: |
-| Less than US$10 million | US$25,000 | US$5,000 |
-| At least US$10 million and less than US$250 million | US$50,000 | US$25,000 |
-| At least US$250 million | US$100,000 | US$50,000 |
+| Annual revenue/Funds raised (USD) | Strategic fee (USD) | Associate fee (USD) | Public Benefit fee (USD)`*` |
+| --- | --- | --- | --- |
+| >= 250M+ | 100,000 | 50,000 | 0 |
+| >=10 to <250M | 50,000 | 25,000 | 0 |
+| < 10M | 25,000 | 5,000 | 0 |
 
-| Member class | Annual fee | Notes |
-| :--- | ---: | :--- |
-| Individual Member | No fee | Individual participation is non-commercial; see the note below. |
-| Ecosystem Member | No fee | Digital Trust Ecosystem operators. |
-| Civil Society Member | No fee | Nonprofits focused on digital rights or privacy. |
-| Government Liaison Member | No fee | Public-sector entities. |
+`*` — the Public Benefit member classes are Individual Members, Ecosystem Members, Civil Society Members, and Government Liaison Members.
+
+
+
+| Annual revenue/Funds raised (USD) | Strategic fee (USD) | Associate fee (USD) | Public Benefit fee (USD)`*` |
+| --- | --- | --- | --- |
+| 250M+ | 100,000 | 50,000 | 0 |
+| 10–250M | 50,000 | 25,000 | 0 |
+| 0–10M | 25,000 | 5,000 | 0 |
+
+`*` — the Public Benefit member classes are Individual Members, Ecosystem Members, Civil Society Members, and Government Liaison Members.
 
 Membership fees are cash-only. The fee schedule does not amend the form of the Ayra Association Membership Agreement.
 
@@ -32,7 +37,7 @@ The Executive Director and Secretary will complete the administration rules for 
 
 On July 30, 2026, the Ayra Association Board passed resolution 2026-07-003, approving this proposed 2027 fee schedule for submission to the Members' Assembly.
 
-The Board also passed resolution 2026-07-004, authorizing the Executive Director to use these rates immediately for eligible GAN Formation Corporation-era transitions, early renewals, and new members, subject to that resolution. Ayra will honour agreements executed under that authority according to their terms if the Members' Assembly later changes the general 2027 schedule.
+The Board also passed resolution 2026-07-004, authorizing the Executive Director to use these rates immediately for eligible GAN Formation Corporation-era transitions, early renewals, and new members, subject to that resolution. 
 
 ## Payment Terms
 
