@@ -5,17 +5,18 @@
 - Status: Board-approved proposal; immediate use authorized within the scope of resolution 2026-07-004
 - Board approval: July 30, 2026
 - Governing decisions: Ayra Association Board resolutions 2026-07-003 and 2026-07-004
+- Meeting record: The revenue-band boundaries were corrected during the July 30, 2026 vote to eliminate overlap at USD 10 million and USD 250 million.
 - Members' Assembly: The Board-approved proposal will be submitted to the November 17, 2026 Members' Assembly, which determines the general 2027 membership fees.
 
 ## 2027 Member Fee Schedule
 
 All revenue thresholds, funds-raised thresholds, and annual fees are denominated in U.S. dollars. 
 
-| Annual revenue/Funds raised (USD) | Strategic Business Member fee (USD) | Associate Business Member fee (USD) | Public Benefit fee (USD)`*` |
-| --- | --- | --- | --- |
-| >= 250M+ | 100,000 | 50,000 | 0 |
-| >=10 to <250M | 50,000 | 25,000 | 0 |
-| < 10M | 25,000 | 5,000 | 0 |
+| Annual revenue or funds raised | Strategic Business Member | Associate Business Member | Public Benefit Member`*` |
+| :--- | ---: | ---: | ---: |
+| Less than USD 10,000,000 | USD 25,000 | USD 5,000 | USD 0 |
+| At least USD 10,000,000 and less than USD 250,000,000 | USD 50,000 | USD 25,000 | USD 0 |
+| At least USD 250,000,000 | USD 100,000 | USD 50,000 | USD 0 |
 
 
 `*` — the Public Benefit member classes are Individual Member, Ecosystem Member, Civil Society Member, and Government Liaison Member.
