@@ -5,7 +5,7 @@
 - Status: Board-approved proposal; immediate use authorized within the scope of resolution 2026-07-004
 - Board approval: July 30, 2026
 - Governing decisions: Ayra Association Board resolutions 2026-07-003 and 2026-07-004
-- Meeting record: The revenue-band boundaries were corrected during the July 30, 2026 vote to eliminate overlap at USD 10 million and USD 250 million.
+"- Meeting record: The revenue-band boundaries were corrected during the July 30, 2026 vote to eliminate overlap at USD 10 million and USD 250 million.
 - Members' Assembly: The Board-approved proposal will be submitted to the November 17, 2026 Members' Assembly, which determines the general 2027 membership fees.
 
 ## 2027 Member Fee Schedule

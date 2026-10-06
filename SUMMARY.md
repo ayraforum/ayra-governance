@@ -9,6 +9,7 @@
   * [Antitrust and Competition Policy](governance-artifacts/antitrust-and-competition-policy.md)
   * [Intellectual Property Policies](governance-artifacts/intellectual-property-policies.md)
   * [Project & Working Group Process (DRAFT)](governance-artifacts/project-and-working-group-process.md)
+  * [Board Eligibility Policy (DRAFT)](governance-artifacts/board-eligibility-policy.md)
   * [Membership](governance-artifacts/membership/README.md)
     * [Membership Fees](governance-artifacts/membership/membership-fees.md)
     * [Application Form](governance-artifacts/membership/application-form.md)
