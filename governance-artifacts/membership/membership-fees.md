@@ -7,6 +7,7 @@
 - Governing decisions: Ayra Association Board resolutions 2026-07-003 and 2026-07-004
 "- Meeting record: The revenue-band boundaries were corrected during the July 30, 2026 vote to eliminate overlap at USD 10 million and USD 250 million.
 - Members' Assembly: The Board-approved proposal will be submitted to the November 17, 2026 Members' Assembly, which determines the general 2027 membership fees.
+- Payment terms updated November 11, 2026 to clarify the renewal payment due date. Fees unchanged.
 
 ## 2027 Member Fee Schedule
 
@@ -36,8 +37,8 @@ The Board also passed resolution 2026-07-004, authorizing the Executive Director
 - Fees are annual, paid in full, and renewable annually thereafter.
 - Fee-based classes: Payment is due upon execution of the membership agreement.
 - Membership becomes effective upon receipt of payment and completion of the applicable admission requirements.
-- Payment window: 30 days from approval notification.
-- Annual renewal: An invoice is sent 30 days before the renewal date.
+- Payment window: 30 days from approval notification for new members.
+- Annual renewal: Payment is due on the renewal date.
 
 ## Individual Members
 
